@@ -1,0 +1,19 @@
+div{
+    width: 110px;
+    height: 50px;
+    border-radius: 50px;
+    border: solid black 1px;
+    display: inline-block;
+}
+.klasse1{
+    background-color: blue;
+}
+.klasse2{
+    background-color: red;
+}
+.klasse3{
+    background-color: green;
+}
+.klasse4{
+    background-color: yellow;
+}
