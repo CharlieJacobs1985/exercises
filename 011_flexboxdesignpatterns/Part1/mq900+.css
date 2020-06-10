@@ -1,0 +1,12 @@
+body{
+    width: 900px;
+    border: dashed hotpink;
+    margin: 0 auto;
+
+}
+.c1{
+    width: 100%
+}
+.c2,.c3,.c4,.c5,.c6,.c7{
+    width: 33.33%
+}

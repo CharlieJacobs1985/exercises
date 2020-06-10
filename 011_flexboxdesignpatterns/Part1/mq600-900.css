@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.c1,.c7{
+    width: 100%;
+}
+.c2,.c3,.c4{
+    width: 33.33%;
+}
+.c5,.c6{
+   width: 50%;
+}
+.c2{
+    order:3;
+}
+.c4{
+    order:2
+}
+.c3{
+    order:1;
+}
+.c7, .c5, .c6{
+    order:5
+}
