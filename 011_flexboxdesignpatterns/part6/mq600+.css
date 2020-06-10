@@ -1,0 +1,13 @@
+header, div, footer{
+    width: 100%;
+}
+nav, aside{
+    width: 15%
+}
+article{
+    width: 70%
+}
+div{
+    display: flex;
+    flex-flow: row nowrap;
+}

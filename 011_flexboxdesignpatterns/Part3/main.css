@@ -1,0 +1,18 @@
+body{
+    color: whitesmoke;
+    font-size: 5rem;
+}
+div {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    background-image: url("thumb2-brugge-fc-4k-logo-jupiler-pro-league-wooden-texture.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+
+
+}

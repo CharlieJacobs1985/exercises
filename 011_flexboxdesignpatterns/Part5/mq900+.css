@@ -1,0 +1,16 @@
+article{
+    width: 70%;
+    order: 2;
+}
+aside{
+    width:15%;
+}
+.nr1{
+    order: 1;
+}
+.nr2{
+    order:3;
+}
+footer{
+    order: 4;
+}

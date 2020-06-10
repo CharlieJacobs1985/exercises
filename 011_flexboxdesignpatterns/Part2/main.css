@@ -1,0 +1,23 @@
+body {
+
+}
+ul{
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: skyblue;
+    color: whitesmoke;
+}
+li{
+
+
+}
+a{
+    display: block;
+    padding: 20px 0;
+    text-align: center;
+    border: solid 1px whitesmoke;
+    /*border: dashed hotpink;*/
+}
+a:hover{
+    background: midnightblue;
+}

@@ -1,0 +1,36 @@
+body{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+header{
+    width:100%;
+    padding: 20px 0;
+    background-color: orange;
+    text-align: center;
+}
+article{
+    width: 100%;
+    padding: 20px 0;
+    background-color: dodgerblue;
+    text-align: center;
+}
+aside{
+    width: 100%;
+    padding:20px 0;
+    text-align: center;
+
+}
+footer{
+    width: 100%;
+    padding: 20px 0;
+    background-color: lawngreen;
+    text-align: center;
+}
+.nr1{
+    background-color: yellow;
+}
+.nr2{
+    background-color: hotpink;
+}

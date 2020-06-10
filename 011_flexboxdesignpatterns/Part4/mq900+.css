@@ -1,0 +1,11 @@
+nav{
+    box-sizing: border-box;
+    width: 15%
+}
+main{
+    box-sizing: border-box;
+    width: 85%;
+}
+ul{
+    justify-content: flex-start;
+}

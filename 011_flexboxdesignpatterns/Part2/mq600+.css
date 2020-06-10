@@ -1,0 +1,13 @@
+ul{
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+}
+
+li{
+    /*display: inline-block;*/
+    /*border: dashed hotpink;*/
+    padding: 0 15px;
+}
+a{
+    border: none;
+}
