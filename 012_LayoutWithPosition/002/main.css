@@ -1,0 +1,16 @@
+body{
+    width: 1200px;
+    border: dashed hotpink;
+}
+div{
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+    border: dashed hotpink;
+    height: 200px;
+}
+#nr1{
+    position: relative;
+    left: 10px;
+    top: 10px;
+}

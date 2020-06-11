@@ -1,4 +1,4 @@
-header, div, footer{
+header, footer{
     width: 100%;
 }
 nav, aside{
@@ -9,5 +9,5 @@ article{
 }
 div{
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
 }

@@ -1,0 +1,17 @@
+article{
+    position: relative;
+    width: 900px;
+    background-color: red;
+    height: 600px;
+    border: dashed hotpink;
+    top: 0;
+    left: 0;
+}
+div{
+    position: absolute;
+    top: 80px;
+    right: 60px;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
