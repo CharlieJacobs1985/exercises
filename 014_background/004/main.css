@@ -1,0 +1,6 @@
+body{
+    height: 100vh;
+    background-image: url("../../../html-css-bootcamp/037_background/03_hands-on-exercises/exercise-files/dog.png");
+    /*background-repeat: repeat-x;*/
+    background-repeat: repeat-y;
+}

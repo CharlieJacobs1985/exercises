@@ -1,0 +1,16 @@
+html, body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    color: white;
+    height: 100vh;
+    font-size: 200px;
+}

@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("../../../html-css-bootcamp/037_background/03_hands-on-exercises/exercise-files/dog.png");
+    background-repeat: repeat;
+    height: 100vh;
+}
