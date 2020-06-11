@@ -1,0 +1,14 @@
+div{
+    border: 1px solid blue;
+    height: 40px;
+}
+
+#nr1{
+    float: left;
+    border: 2px dashed hotpink;
+    height 40px;
+    width: 20%
+}
+#nr2{
+    /*clear: both;*/
+}
